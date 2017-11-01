@@ -1,4 +1,4 @@
 # hello-world
 
 Hi!
-Today is Wednesdays.
+Today is Wednesday.
